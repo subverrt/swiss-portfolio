@@ -53,7 +53,7 @@ export default function About() {
 
         <div className="about-art relative min-h-[320px] overflow-hidden border border-white/10 bg-[#15151a] sm:min-h-[400px]">
           <img
-            src="/about-image.jpe"
+            src="/about-image.jpg"
             alt="Abstract architectural composition"
             className="absolute inset-0 h-full w-full object-cover grayscale-[25%]"
           />
